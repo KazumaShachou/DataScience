@@ -1,3 +1,3 @@
 # DataScience
 
-Some studies about the movies 
+Some projects and study about data science 
